@@ -25,6 +25,6 @@
         android:layout_height="38dp"
         android:text="Send"
         android:id="@+id/btnSend"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentTop="true"/>
 
 </LinearLayout>
